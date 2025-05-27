@@ -43,7 +43,7 @@ h2 {
 
   /* Свойства фотографии*/
 .photo {
-  border-radius: 100px;
+  border-radius: 50px;
   /* Радиус скругления */
   border: 3px solid transparent;
   /* Параметры рамки */
